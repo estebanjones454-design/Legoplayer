@@ -1,0 +1,6 @@
+{
+  "name": "LEGO Store Android - Tienda Oficial & Temáticas",
+  "description": "Tienda web oficial LEGO optimizada para Android con secciones Ninjago, Star Wars, Chima, Scooby-Doo y Variado, compras seguras e historial de pedidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
